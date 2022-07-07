@@ -1,0 +1,6 @@
+package com.exrade.user;
+
+public interface FirstLastNameIdentity extends NameIdentity {
+  public String getFirstName();
+  public String getLastName();
+}

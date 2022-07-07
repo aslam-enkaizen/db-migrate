@@ -1,0 +1,16 @@
+package com.exrade.models.authorisation;
+
+public enum AuthorisationObjectType {
+
+	NEGOTIATION,
+	NEGOTIATION_MESSAGE,
+	WORKGROUP,
+	POST,
+	COMMENT,
+	INFORMATION_MODEL_TEMPLATE,
+	MEMBERSHIP,
+	PROFILE,
+	NEGOTIATION_TEMPLATE,
+	CLAUSE
+	
+}

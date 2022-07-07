@@ -1,0 +1,31 @@
+package com.exrade.models.activity;
+
+public enum Verb {
+
+	JOIN,
+	REQUEST,
+	INVITE,
+	SEND,
+	ACCEPT,
+	REJECT,
+	COMMENT,
+	POST,
+	CREATE,
+	ADD,
+	REMOVE,
+	DELETE,
+	REMIND,
+	REVIEW,
+	SIGN,
+	RECEIVE,
+	CANCEL,
+	MOVE,
+	ARCHIVE,
+	UNARCHIVE,
+	CHANGE_SIGNER,
+	LOGIN,
+	CHANGE,
+	UPDATED,
+	PAY
+	
+}
